@@ -4,6 +4,7 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <group>
 <<<<<<< HEAD
             <file>file:/Users/thienle/Desktop/boffo_register_v2/BoffoRegister/src/database/BoffoDbObject.java</file>
@@ -26,14 +27,19 @@
             <file>file:/C:/Users/Mike/Desktop/old_desktop/School/CSC%20340/boffo_register_v2/BoffoRegister/src/bundles/GroupList.java</file>
 >>>>>>> iquigley/master
         </group>
-        <group>
-<<<<<<< HEAD
-            <file>file:/C:/Users/gra3111/Documents/GitHub/boffo_register_v2/BoffoRegister/src/product/ProductObject.java</file>
 =======
-            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/events/BoffoListenerInterface.java</file>
-            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/events/BoffoFireObject.java</file>
+>>>>>>> iquigley/master
+        <group>
             <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/events/BoffoEvent.java</file>
->>>>>>> refs/remotes/origin/master
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/gui/BoffoRegisterGUI.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/bundles/Bundle.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/events/BoffoFireObject.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/bundles/DiscountType.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/transaction/Ticket.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/inventory/Inventory.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/bundles/BundleTests.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/product/ProductObject.java</file>
+            <file>file:/C:/Users/msf10_000/Documents/NetBeansProjects/boffo_register_v2/BoffoRegister/src/events/BoffoListenerInterface.java</file>
         </group>
     </open-files>
 </project-private>
